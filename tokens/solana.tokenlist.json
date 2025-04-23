@@ -1,0 +1,14 @@
+[
+  {
+    "chainId": 101,
+    "address": "2yhxS86haBg1znEe291oanSc3Lzutq8p7RXw96fxdLhR",
+    "symbol": "PEPEBEAN",
+    "name": "Pepe Bean",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/pepe-java-bean/token-list/main/assets/mainnet/2yhxS86haBg1znEe291oanSc3Lzutq8p7RXw96fxdLhR/logo.png",
+    "extensions": {
+      "website": "https://pepejavashop.com",
+      "twitter": "https://twitter.com/pepejavashop"
+    }
+  }
+]
